@@ -1,0 +1,22 @@
+#top{
+    border-style: double;
+    border-color: khaki;
+    border-width: 6px;
+    margin-left: 200px;
+    background-color: lawngreen;
+    padding-left: 20%;
+
+}
+
+
+#bottom{
+    border-style: double;
+    border-color: khaki;
+    border-width: 6px;
+    margin-left: 200px;
+    margin-top: 400px;
+}
+
+h1{
+    font-family: 'Big Shoulders Stencil Text', cursive;
+}

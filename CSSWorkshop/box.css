@@ -1,0 +1,46 @@
+h1{
+
+    text-align: center;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+}
+
+#x{
+    width: 200px;
+    height: 400px;
+    background-color: lawngreen;
+    margin-top: 10px;
+    margin-left: 10%;
+    float: left;
+}
+#y{
+    width: 200px;
+    height: 400px;
+    background-color: lightcoral;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: right;
+}
+#z{
+    width: 200px;
+    height: 400px;
+    background-color: lightseagreen;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+#a{
+    width: 200px;
+    height: 400px;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+#b{
+    width: 200px;
+    height: 400px;
+    background-color: red;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
